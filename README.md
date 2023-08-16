@@ -10,3 +10,4 @@ To view the report just go to: `Site Administration > Reports > Random Users Cou
 2. Done ;)
 
 ## Screenshots
+![16-08-2023 18-56-15](https://github.com/obanach/randomusercourse/assets/35408041/3b67cd2c-4852-4689-ad30-bfcc9ffe0061)
